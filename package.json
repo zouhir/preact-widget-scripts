@@ -1,8 +1,8 @@
 {
   "name": "preact-widget-scripts",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Common scripts used in making Preact widgets",
-  "files": ["babel.js"],
+  "files": ["configs/", "babel.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
